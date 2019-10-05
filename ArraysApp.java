@@ -2,6 +2,8 @@ import java.util.Arrays;
 
 public class ArraysApp {
     public static void main(String[] args) {
+	//Add new comment for git demo	
+
 	System.out.println(args[0]);
 	System.out.println(args.length);
 
