@@ -1,4 +1,4 @@
-package pl.itacademy.week7;
+package pl.itacademy.week7.accounts;
 
 import java.math.BigDecimal;
 import java.util.Objects;
@@ -7,7 +7,7 @@ public abstract class Account {
     private static long accountNumberCounter = 0;
 
     private Long accountNumber;
-    private BigDecimal balance;
+    protected BigDecimal balance;
 
     public Account() {
         accountNumber = accountNumberCounter + 1;

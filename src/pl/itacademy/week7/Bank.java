@@ -1,5 +1,7 @@
 package pl.itacademy.week7;
 
+import pl.itacademy.week7.accounts.Account;
+
 import java.util.HashSet;
 import java.util.Set;
 
