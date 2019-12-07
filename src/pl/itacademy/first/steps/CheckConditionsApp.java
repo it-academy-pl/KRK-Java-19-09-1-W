@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package pl.itacademy.first.steps;
 
 public class CheckConditionsApp {
     public static void main(String[] args) {

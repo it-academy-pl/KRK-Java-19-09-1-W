@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package pl.itacademy.first.steps;
 
 public class LoopsApp {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package pl.itacademy.first.steps;
+
 import java.util.Arrays;
 
 public class ArraysApp {

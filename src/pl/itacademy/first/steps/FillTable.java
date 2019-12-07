@@ -1,3 +1,5 @@
+package pl.itacademy.first.steps;
+
 import java.util.Arrays;
 public class FillTable {
     public static void main(String[] args) {
