@@ -8,7 +8,7 @@ import java.lang.annotation.*;
 public @interface TimeSlot {
     String value() default "";
     String something() default "";
-    int number();
-    double person();
-    long test();
+    int number() default 0;
+    double person() default 0.0;
+    long test() default 1L;
 }
